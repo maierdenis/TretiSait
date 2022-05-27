@@ -1,5 +1,5 @@
 {
-  "name": "vtoroisait",
+  "name": "tretisait",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/maierdenis/maierdenis.github.io/issues"
   },
-  "homepage": "https://github.com/maierdenis/maierdenis.github.io#readme",
+  "homepage": "https://github.com/maierdenis/TretiSait.git",
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^8.0.0",

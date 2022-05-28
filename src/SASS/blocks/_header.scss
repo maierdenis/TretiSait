@@ -36,3 +36,27 @@
     }
         
 }
+
+@media (max-width: 320px) {
+    .container {
+        padding: 20px 25px;
+    }
+    .promo {
+        padding: 0 0 0 0;
+        background: url(../img/background/bg1.jpg) no-repeat;
+        background-size: 100% auto;
+        .header {
+            display: flex;
+            flex-direction: column;
+            &__official {
+                margin-top: 10px;
+                span {
+                visibility: hidden;
+                }
+            }    
+            &__phone {
+                color: #0d0d0d;
+            }
+        }
+    }
+}

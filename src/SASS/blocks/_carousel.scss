@@ -10,7 +10,7 @@
             margin: 0 auto;
         }
     }
-    .prev, .next {
+    .slick-prev, .slick-next {
         padding: 0 0 0 0;
         position: absolute;
         top: 50%;
@@ -23,7 +23,7 @@
             height: 50px;
         }
     }
-    .next {
+    .slick-next {
         left: auto;
         right: -95px;
     }

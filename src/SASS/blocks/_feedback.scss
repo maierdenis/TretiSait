@@ -1,0 +1,31 @@
+.feedback {
+    padding-bottom: 70px;
+    &__client {
+        display: flex;
+        flex-direction: row;
+        margin-top: 100px;
+        &_1 {
+            margin-top: 0;
+        }
+    }
+    &__pic {
+        width: 169px;
+        height: 169px;
+        margin-right: 60px;
+    }
+    &__person {
+        font-size: 18px;
+        font-weight: 700;
+        color: #0d0d0d;
+    }
+    &__info {
+        font-size: 14px;
+        font-weight: 300;
+        color: #646464;
+    }
+    &__text {
+        font-size: 15px;
+        font-weight: 500;
+        color: #0d0d0d;
+    }
+}
